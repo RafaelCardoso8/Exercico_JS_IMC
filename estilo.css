@@ -1,0 +1,10 @@
+body{
+    font-family: Verdana, sans-serif;
+    background-color: rgb(23, 122, 122);
+    color: rgb(162, 229, 229);
+}
+
+header{
+    width: 700px;
+    text-align: center;
+}
