@@ -4,7 +4,20 @@ body{
     color: rgb(162, 229, 229);
 }
 
-header{
-    width: 700px;
+header{    
+    text-align: center;
+}
+#paragrafos{
+    width: 800px;
+    margin: auto;
+    
+}
+
+#linha{
+    height: 3px;
+    background-color:rgb(162, 229, 229);
+}
+
+main{
     text-align: center;
 }
